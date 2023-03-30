@@ -1,0 +1,179 @@
+/* GENERAL FONTS */
+
+.App {
+  text-align: center;
+}
+
+/* h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 2.0rem;
+}
+
+p {
+  font-size: 1.4rem;
+  margin: 20px 0;
+} */
+
+.lrg-qt {
+  font-weight: bold;
+}
+
+.sm-qt{
+  //font-size: 1.0rem;
+}
+
+/* TOGGLE CLASSES */
+
+.hide {
+  display: none;
+}
+
+/* APP SECTIONS*/
+
+.App-logo {
+  width: auto;
+  height: 150px;
+}
+
+.App-gif {
+  width: 500px;
+  height: 200px;
+  border-radius: 5px;
+  margin:auto;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: #15a69f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.Question-header {
+  padding-top: 0;
+}
+
+
+/* BUTTONS */
+
+.App-btn {
+  //font-size: 1.6rem;
+  background-color: #222;
+  color: #15a69f;
+  padding: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* ANSWERS */
+
+/* .answerOptions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.answerOption {
+  font-size: 1.2rem;
+  background-color: #222;
+  color: #15a69f;
+  margin: 1%;
+  padding: 0;
+  border-radius: 5px;
+  width: 48%;
+} */
+
+.radioCustomButton {
+  display: none;
+}
+
+.radioCustomLabel {
+  cursor: pointer;
+  width: 100%;
+  margin: 0;
+  //padding:20px;
+}
+
+/* RESULTS */
+
+.result-btns {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result-btn {
+  margin-bottom: 2%;
+  width: 500px;
+}
+
+/* Hufflepuff */
+
+.Hufflepuff .Result-header {
+  background-color: #222;
+}
+
+.Hufflepuff .App-section {
+  background-color: #15a69f;
+}
+
+.Hufflepuff .result-btn {
+  background-color: #222;
+}
+
+/* Gryffindor */
+
+.Gryffindor .Result-header {
+  background-color: #222;
+}
+
+.Gryffindor .App-section {
+  background-color: #15a69f;
+}
+
+.Gryffindor .result-btn {
+  background-color: #222;
+}
+
+/* Ravenclaw */
+
+.Ravenclaw .Result-header {
+  background-color: #222;
+}
+
+.Ravenclaw .App-section {
+  background-color: #15a69f;
+}
+
+.Ravenclaw .result-btn {
+  background-color: #222;
+}
+
+/* Slytherin */
+
+.Slytherin .Result-header {
+  background-color: #222;
+  color: #259746;
+}
+
+.Slytherin .App-section {
+  background-color: #259746;
+  color: #C2C3C3;
+}
+
+.Slytherin .result-btn {
+  background-color: #222;
+  color: #C2C3C3;
+}
+
+.result-btns a{
+  text-decoration: none;
+}
+
+

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wp-content/reactpress/apps/sorting-hat/build/static/css/main.449fdf57.css",
+    "main.js": "/wp-content/reactpress/apps/sorting-hat/build/static/js/main.ab19a02f.js",
+    "index.html": "/wp-content/reactpress/apps/sorting-hat/build/index.html",
+    "main.449fdf57.css.map": "/wp-content/reactpress/apps/sorting-hat/build/static/css/main.449fdf57.css.map",
+    "main.ab19a02f.js.map": "/wp-content/reactpress/apps/sorting-hat/build/static/js/main.ab19a02f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449fdf57.css",
+    "static/js/main.ab19a02f.js"
+  ]
+}
